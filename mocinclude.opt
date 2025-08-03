@@ -1,0 +1,45 @@
+-ID:/QT/6.9.1/msvc2022_64/mkspecs/win32-msvc
+-IC:/Users/songz/Desktop/QOwnNotes/src
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/diff_match_patch
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/qmarkdowntextedit
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/qmarkdowntextedit
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/qmarkdowntextedit
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/piwiktracker
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/botan
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/qkeysequencewidget/qkeysequencewidget/src
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/qttoolbareditor/src
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/fakevim/fakevim/utils
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/fakevim/fakevim
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/fakevim
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/singleapplication
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/sonnet/src/core
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/sonnet/src/plugins/hunspell/hunspell/src/hunspell
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/sonnet/src/plugins/hunspell/hunspell/src/parsers
+-IC:/Users/songz/Desktop/core
+-IC:/Users/songz/Desktop/QOwnNotes/src/hunspell/src/hunspell
+-IC:/Users/songz/Desktop/QOwnNotes/src/hunspell/src
+-IC:/Users/songz/Desktop/QOwnNotes/src/libraries/qhotkey/QHotkey
+-ID:/QT/6.9.1/msvc2022_64/include
+-ID:/QT/6.9.1/msvc2022_64/include/QtPrintSupport
+-ID:/QT/6.9.1/msvc2022_64/include/QtWidgets
+-ID:/QT/6.9.1/msvc2022_64/include/QtSvg
+-ID:/QT/6.9.1/msvc2022_64/include/QtGui
+-ID:/QT/6.9.1/msvc2022_64/include/QtSql
+-ID:/QT/6.9.1/msvc2022_64/include/QtQml
+-ID:/QT/6.9.1/msvc2022_64/include/QtWebSockets
+-ID:/QT/6.9.1/msvc2022_64/include/QtNetwork
+-ID:/QT/6.9.1/msvc2022_64/include/QtXml
+-ID:/QT/6.9.1/msvc2022_64/include/QtQmlIntegration
+-ID:/QT/6.9.1/msvc2022_64/include/QtConcurrent
+-ID:/QT/6.9.1/msvc2022_64/include/QtCore
+-I.
+-ID:\VisualStudio2022\VC\Tools\MSVC\14.44.35207\include
+-ID:\VisualStudio2022\VC\Tools\MSVC\14.44.35207\ATLMFC\include
+-ID:\VisualStudio2022\VC\Auxiliary\VS\include
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\um
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\shared
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\winrt
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.26100.0\\cppwinrt
