@@ -1,18 +1,18 @@
 ﻿
-// AIassistant.h: PROJECT_NAME 应用程序的主头文件
+// AIassistant.h: PROJECT_NAME The main header file of the application
 //
 
 #pragma once
 
 #ifndef __AFXWIN_H__
-	#error "在包含此文件之前包含 'pch.h' 以生成 PCH"
+	#error "Include before including this file 'pch.h' To generate PCH"
 #endif
 
-#include "resource.h"		// 主符号
+#include "resource.h"		// Main symbol
 
 
 // CAIassistantApp:
-// 有关此类的实现，请参阅 AIassistant.cpp
+// For an implementation of this class, see AIassistant.cpp
 //
 
 class CAIassistantApp : public CWinApp
@@ -20,11 +20,11 @@ class CAIassistantApp : public CWinApp
 public:
 	CAIassistantApp();
 
-// 重写
+// rewrite
 public:
 	virtual BOOL InitInstance();
 
-// 实现
+// relize
 
 	DECLARE_MESSAGE_MAP()
 };
