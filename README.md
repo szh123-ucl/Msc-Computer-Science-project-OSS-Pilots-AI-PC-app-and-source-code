@@ -1,4 +1,6 @@
 # Msc-Computer-Science-project-OSS-Pilots-AI-PC-app-and-source-code
+SmolPC is a collection of AI powered apps that are suited for business users and travellers with Intel laptops. They may run on CPU, GPU and NPU and have distinct advantages for offline and privacy safe AI operations on useful Open Source projects.
+
 QOwnNotes AI Assistant is SmolPC Collection:AI apps for open source projects. 
 It includes the project source code and final desktop-app for the UCL‘s Msc Computer Science summer project
 
